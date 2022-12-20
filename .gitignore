@@ -1,0 +1,33 @@
+target/
+
+#docs
+/docs-src/output/*
+
+databases/
+
+data/filtered_bus_stops.csv
+data/test.csv
+data/train.csv
+data/train_filter.csv
+
+derby.log
+CoffeeDB/
+
+testfolder/
+test_col_test
+testoutput/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.project
+.settings
+.classpath
+bin/
+
+# NetBeans
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
